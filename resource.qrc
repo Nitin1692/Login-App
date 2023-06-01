@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/imhg">
+        <file>imfj/login.png</file>
+        <file>imfj/blue.png</file>
+    </qresource>
+    <qresource prefix="/back"/>
+</RCC>
